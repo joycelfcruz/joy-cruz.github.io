@@ -3,6 +3,7 @@
 body {
   background: linear-gradient(224.46deg, #2C2A51 45.58%, #605CAE 91.37%);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container {
@@ -106,6 +107,8 @@ body {
 
 .dark {
   background: linear-gradient(224.46deg, #F9DCDE 45.64%, #F4AFB3 91.37%, #F4AFB3 91.37%);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .dark .container {
